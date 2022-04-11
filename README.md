@@ -8,14 +8,14 @@ C++でAndroid用のコマンドラインアプリケーションを作成する�
 
 ## インストール
 
-- Install Android SDK
-- Install Android NDK
-- Install Android CMake (Version 3.18.1)
-- Install Android Platform Tools
+- Android SDK
+- Android NDK
+- Android CMake (Version 3.18.1)
+- Android Platform Tools
 
 ## 環境変数
 
-Set Environment variables `ANDROID_SDK_ROOT` and `ANDROID_NDK_ROOT`.
+環境変数 `ANDROID_SDK_ROOT` と `ANDROID_NDK_ROOT` を追加します。
 
 # リポジトリのクローン
 
