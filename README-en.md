@@ -1,29 +1,26 @@
-
-[README in English](https://github.com/SUU-Lab/AndroidCppCommandLineSample/blob/main/README-en.md)
-
 # AndroidCppCommandLineSample
-C++でAndroid用のコマンドラインアプリケーションを作成するサンプルです。
+This is a sample of creating a command line application for Android in C++.
 
-# 準備
+# Pre-requisites
 
-## インストール
+## Installations
 
 - Install Android SDK
 - Install Android NDK
 - Install Android CMake (Version 3.18.1)
 - Install Android Platform Tools
 
-## 環境変数
+## Environment variables
 
 Set Environment variables `ANDROID_SDK_ROOT` and `ANDROID_NDK_ROOT`.
 
-# リポジトリのクローン
+# Clone the repository
 
 ```cmd
 > git clone https://github.com/SUU-Lab/Android-Native-Samples.git
 ```
 
-# ビルド & 実行
+# Build and Run
 ```cmd
 > cd BuildAndExecute
 > build_and_run.bat
